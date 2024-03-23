@@ -1,5 +1,0 @@
-1 new.gpf
-2 new2.gpf
-3 new3.rgz
-4 new4.gpf
-5 new5.rgz
